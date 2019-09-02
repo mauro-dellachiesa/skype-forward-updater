@@ -1,6 +1,7 @@
 {
   "name": "skype-forward-updater",
   "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log into Skype and update the call forwarding phone",
   "main": "index.js",
   "scripts": {
@@ -12,5 +13,8 @@
     "chromedriver": "74.0.0",
     "cross-env": "5.2.0",
     "nightwatch": "1.1.11"
+    "chromedriver": "76.0.1",
+    "cross-env": "5.2.1",
+    "nightwatch": "1.2.2"
   }
 }
