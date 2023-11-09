@@ -9,7 +9,7 @@
   "author": "Mauro Della Chiesa",
   "license": "ISC",
   "dependencies": {
-    "chromedriver": "77.0.0",
+    "chromedriver": "119.0.1",
     "cross-env": "5.2.1",
     "nightwatch": "1.2.2"
   }
